@@ -33,8 +33,8 @@ Watch Jarvis respond to your queries and commands.
 ## 🤝 Contributing
 Contributions are welcome! If you’d like to improve Jarvis, feel free to fork the repository and submit a pull request.
 
+# Thank you for checking out Jarvis! Your feedback is appreciated. Let’s make the future of voice assistants bright! ✨
 
-##👤 Author
-> Gowtham G
-> Connect with me on [LinkedIn] (https://www.linkedin.com/in/gowtham-govindhan/).
-> Thank you for checking out Jarvis! Your feedback is appreciated. Let’s make the future of voice assistants bright! ✨
+# Project By
+   ## Gowtham G 
+   > Connect with me on LinkedIn -> https://www.linkedin.com/in/gowtham-govindhan/
